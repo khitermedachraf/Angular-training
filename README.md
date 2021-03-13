@@ -1,0 +1,2 @@
+# Angular-training
+Angular 8 is out now and along with that, comes my Angular 8 Tutorial (more like a crash course!) that will beginner's exactly how to get up and running with this powerful frontend javascript framework.  Angular allows you to create SPA's (Single Page Apps), SSR's (Server Side Rendered) and PWA's (Progressive Web Apps). For this tutorial, we're going focus just on the basics of building an SPA.  You should be comfortable with HTML, CSS and JavaScript fundamentals before proceeding with Angular.   Let's get started!
